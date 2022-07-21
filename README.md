@@ -1,5 +1,5 @@
-# Coffe-machine
-This program will offer 3 coffee's (espresso/latte/cappuccino) give the report of ingredients and credit the coffee cost and after order deduct the amount of coffee 
+# Coffee-machine
+This program will offer 3 coffee's (espresso/latte/cappuccino) give the report of ingredients and credit the coffee cost and after order deduct the amount of coffee and refund the change this will only accepts coins.
 MENU = {
     "espresso": {
         "ingredients": {
